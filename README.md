@@ -1,4 +1,4 @@
-## Project: Federated VQA Training
+## Title: Federated VQA Training
 Course PHSX600/801 Project - Topic: "Distributed Quantum Machine Learning"
 
 ## Introduction
