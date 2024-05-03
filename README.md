@@ -1,4 +1,4 @@
-# project_distributedQNN
+## Project: Federated VQA Training
 Course PHSX600-801 project - Topic: "Distributed Quantum Machine Learning"
 
 ## Introduction
